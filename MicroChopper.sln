@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroChopper", "MicroChopper\MicroChopper.csproj", "{263A46F3-BFB8-44AC-825F-C631EA5A5214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighscoreBackgroundAgent", "..\HighscoreBackgroundAgent\HighscoreBackgroundAgent.csproj", "{74E4518E-0A10-432B-A3A8-8DACD32AEF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Master|Any CPU = Master|Any CPU
+		Master|ARM = Master|ARM
+		Master|x86 = Master|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Debug|ARM.ActiveCfg = Debug|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Debug|ARM.Build.0 = Debug|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Debug|ARM.Deploy.0 = Debug|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Debug|x86.ActiveCfg = Debug|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Debug|x86.Build.0 = Debug|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Debug|x86.Deploy.0 = Debug|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Master|Any CPU.ActiveCfg = Master|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Master|ARM.ActiveCfg = Master|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Master|ARM.Build.0 = Master|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Master|ARM.Deploy.0 = Master|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Master|x86.ActiveCfg = Master|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Master|x86.Build.0 = Master|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Master|x86.Deploy.0 = Master|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Release|Any CPU.ActiveCfg = Release|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Release|ARM.ActiveCfg = Release|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Release|ARM.Build.0 = Release|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Release|ARM.Deploy.0 = Release|ARM
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Release|x86.ActiveCfg = Release|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Release|x86.Build.0 = Release|x86
+		{263A46F3-BFB8-44AC-825F-C631EA5A5214}.Release|x86.Deploy.0 = Release|x86
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Debug|ARM.ActiveCfg = Debug|ARM
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Debug|ARM.Build.0 = Debug|ARM
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Debug|x86.ActiveCfg = Debug|x86
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Debug|x86.Build.0 = Debug|x86
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Master|Any CPU.ActiveCfg = Release|Any CPU
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Master|Any CPU.Build.0 = Release|Any CPU
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Master|ARM.ActiveCfg = Release|ARM
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Master|ARM.Build.0 = Release|ARM
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Master|x86.ActiveCfg = Release|x86
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Master|x86.Build.0 = Release|x86
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Release|ARM.ActiveCfg = Release|ARM
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Release|ARM.Build.0 = Release|ARM
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Release|x86.ActiveCfg = Release|x86
+		{74E4518E-0A10-432B-A3A8-8DACD32AEF85}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
